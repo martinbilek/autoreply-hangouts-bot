@@ -1,0 +1,14 @@
+{
+  "name": "autoreply-hangouts-bot",
+  "version": "0.0.1",
+  "description": "simple autoreply google hangouts bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "opensource",
+  "dependencies": {
+    "hangouts-bot": "^0.2.1"
+  }
+}
